@@ -180,7 +180,7 @@ class DemoNavbar extends React.Component {
                     </DropdownToggle>
                     <DropdownMenu>
                       <DropdownItem to="/landing-page" href="https://trello.com/aseelfawwazhassanalsaqer" >
-                        Portofile
+                        Portfolio
                       </DropdownItem>
                       <DropdownItem to="/profile-page"  href="https://app.netlify.com/user/settings">
                         Profile
